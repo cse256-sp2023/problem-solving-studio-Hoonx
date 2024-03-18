@@ -457,6 +457,7 @@ user_select_dialog = define_new_dialog('user_select_dialog2', 'Select User', {
                 $( this ).dialog( "close" );
             }
         }
+        
     }
 })
 
